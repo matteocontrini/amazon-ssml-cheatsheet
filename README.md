@@ -42,9 +42,9 @@ Pauses:
 Emphasis (speed and volume (?)):
 
 ```xml
-<emphasis level="strong" /> <!-- slower and louder (?) -->
-<emphasis level="moderate" />
-<emphasis level="reduced" /> <!-- faster and softer (?) -->
+<emphasis level="strong">Slower and louder (?) text</emphasis>
+<emphasis level="moderate">Normal text</emphasis>
+<emphasis level="reduced">Faster and softer (?) text</emphasis>
 ```
 
 Other languages:
